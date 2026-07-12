@@ -5,22 +5,21 @@ LIBRARY MANAGEMENT SYSTEM
 
 * Programming Language: C
 * Data Structure: Singly Linked List
-* File Handling:  Text Files (`books.txt`, `issued.txt`)
-* Compiler:  GCC (GNU Compiler Collection)
+* File Handling:  Text Files 
+* Compiler:  GCC 
 * Build Tool:  Makefile
-* Operating System: Linux / Ubuntu (or any system with GCC)
-
+* Operating System: Ubuntu 
  Concepts Used
 
-* Structures (`struct`)
+* Structures 
 * Singly Linked List
-* Dynamic Memory Allocation (`malloc`, `free`)
-* File Handling (`fopen`, `fclose`, `fscanf`, `fprintf`)
-* Modular Programming (Multiple `.c` and `.h` files)
+* Dynamic Memory Allocation 
+* File Handling 
+* Modular Programming 
 * Functions
 * Pointers
-* String Manipulation (`string.h`)
-* Conditional Statements (`if`, `switch`)
+* String Manipulation 
+* Conditional Statements 
 * Loops (`while`, `for`)
 * Menu-Driven Programming
 * Data Persistence using Files
