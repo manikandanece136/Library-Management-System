@@ -8,9 +8,10 @@ LIBRARY MANAGEMENT SYSTEM
 * File Handling:  Text Files 
 * Compiler:  GCC 
 * Build Tool:  Makefile
-* Operating System: Ubuntu 
- Concepts Used
+* Operating System: Ubuntu
 
+ Concepts Used
+ 
 * Structures 
 * Singly Linked List
 * Dynamic Memory Allocation 
