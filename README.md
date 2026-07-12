@@ -20,6 +20,6 @@ LIBRARY MANAGEMENT SYSTEM
 * Pointers
 * String Manipulation 
 * Conditional Statements 
-* Loops (`while`, `for`)
+* Loops 
 * Menu-Driven Programming
 * Data Persistence using Files
